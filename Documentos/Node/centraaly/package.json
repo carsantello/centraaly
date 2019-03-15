@@ -1,0 +1,27 @@
+{
+  "name": "centraaly",
+  "version": "1.0.0",
+  "description": "e-commerce de practica para crear apis",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/carsantello"
+  },
+  "keywords": [
+    "ecommerce",
+    "apis",
+    "rutas"
+  ],
+  "author": "carlos santello",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^2.4.2",
+    "express": "^4.16.4"
+  },
+  "devDependencies": {
+    "nodemon": "^1.18.10"
+  }
+}
